@@ -1,0 +1,30 @@
+a{
+    float : right;
+    padding : 5px 15px 5px 15px;
+    text-decoration: none;
+}
+div{
+    height : 30px;
+}
+p,b,h2,h3,h4{
+    margin-left : 30px;
+}
+footer{
+    width  :30%;
+    height : 60px;
+}
+#sp6{
+    position: relative;
+    bottom: 0px;
+    float : left;
+}
+#con{
+    border : 0px solid black;
+    float: right;
+    padding : 10px 20px 10px 20px;
+    position: relative;
+    margin-bottom: 10px;
+    background-color: rgb(67, 27, 229);
+    border-radius: 5px;
+    color: azure;
+}

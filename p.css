@@ -1,0 +1,10 @@
+img{
+    width : 70%;
+    height  :400px;
+}
+marquee{
+    margin: 50px 130px 20px 130px;
+    width: 80%;
+    background-size: 100% 100%;
+    background-image: url('https://cdn3.vectorstock.com/i/1000x1000/29/02/today-offer-sale-template-on-waving-flag-vector-28802902.jpg')
+}
